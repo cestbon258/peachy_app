@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_tabbar_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/navigation_activities"
+        android:icon="@drawable/ic_tabbar_activity"
+        android:title="Activities" />
+
+    <item
+        android:id="@+id/navigation_vip"
+        android:icon="@drawable/ic_tabbar_vip"
+        android:title="VIP" />
+
+    <item
+        android:id="@+id/navigation_daisy"
+        android:icon="@drawable/ic_tabbar_daisy"
+        android:title="Daisy" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_tabbar_notify"
+        android:title="Notifications" />
+
+</menu>
